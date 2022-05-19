@@ -1,0 +1,21 @@
+{
+  "name": "UpImgur-DiscordBot",
+  "version": "1.0.0",
+  "description": "Open source bot to upload images to imgur. made with Discord.js V13",
+  "repository": "https://github.com/devPhytols/UpImgur-Bot-Discord.git",
+  "main": "Cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.33.0",
+    "discord-hybrid-sharding": "^1.5.3",
+    "discord.js": "^13.7.0",
+    "fs": "^0.0.1-security",
+    "imgur": "^2.2.0"
+  }
+}
