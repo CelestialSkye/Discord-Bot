@@ -39,6 +39,7 @@ but it grew into something more, i modified the original code so it can take mor
 
 I also added some other slash commands like a command to know the weather in any city, a purge command to delete messages, and another command that can give you information about anime using MAL (My Anime List)
 
+I might add other commands if i feel like it
 
 ## Credits
 This project is based on [devPhytols-Web](https://github.com/devPhytols/UpImgur-Bot-Discord) by [devPhytols](https://github.com/devPhytols).
