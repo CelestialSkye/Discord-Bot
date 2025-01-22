@@ -57,14 +57,14 @@ client.once('ready', () => {
                         body: commands
                     },
                 );
-                console.log(c.red('[GLOBAL]')+' Comandos em barra registrados com sucesso!');
+                console.log(c.red('[GLOBAL]')+' Successfully registered slash commands!');
             } else {
                 await rest.put(
                     Routes.applicationGuildCommands(CLIENT_ID, Development), {
                         body: commands
                     },
                 );
-                console.log(c.red('[DEVELOPMENT]')+' Comandos em barra registrados com sucesso!');
+                console.log(c.red('[DEVELOPMENT]')+' Successfully registered slash commands!');
             }
         } catch (error) {
             if (error) console.error(error);
@@ -81,7 +81,7 @@ client.on('interactionCreate', async interaction => {
     } catch (error) {
         if (error) console.error(error);
         await interaction.reply({
-            content: 'Ocorreu um erro na execução do comando!',
+            content: 'An error occurred while executing the command!',
             ephemeral: true
         });
     }

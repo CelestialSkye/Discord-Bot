@@ -1,8 +1,18 @@
 {
+    "description_imgur": "This is Imgur API key ",
     "token": "",
     "GUILD_TEST": "",
     "IMGUR_CLIENT_ID": "",
     "CLIENT_SECRET": "",
     "REFRESH_TOKEN": "",
-    "ACCESS_TOKEN": ""
+    "ACCESS_TOKEN": "",
+
+    "description_weather": "This is Openweather API key ",
+    "apiToken": "",
+
+    "description_MAL_API": "This is MAL api",
+    "MAL_CLIENT_ID": ""
+
+
 }
+

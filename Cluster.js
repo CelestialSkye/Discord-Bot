@@ -9,5 +9,5 @@ const manager = new Cluster.Manager(`./main.js`, {
     token: Config.token,
 });
 
-manager.on('clusterCreate', cluster => console.log(c.green('[Cluster]') + ` ${cluster.id} Iniciado!`));
+manager.on('clusterCreate', cluster => console.log(c.green('[Cluster]') + ` ${cluster.id} Started!`));
 manager.spawn({ timeout: -1 });
