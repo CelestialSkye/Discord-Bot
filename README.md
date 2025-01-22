@@ -2,7 +2,36 @@ This is a bot i made for my own convenience
 
 You need to change the api keys and use your own keys in bot.json 
 
-once that done run by typing node .
+##How to install
+```
+git clone https://github.com/CelestialSkye/Discord-Bot.git
+npm install
+node .
+```
+
+##How to config 
+```
+{
+    "description_imgur": "This is Imgur API key ",
+    "token": "",
+    "GUILD_TEST": "guild test id",
+    "IMGUR_CLIENT_ID": "your imgur client id",
+    "CLIENT_SECRET": "the client secret",
+    "REFRESH_TOKEN": "imgur refresh token",
+    "ACCESS_TOKEN": "imgur access token",
+
+    "description_weather": "This is Openweather API key ",
+    "apiToken": "openweather api key",
+
+    "description_MAL_API": "This is MAL api",
+    "MAL_CLIENT_ID": "your mal client id"
+
+
+}
+
+
+```
+
 
 The Discord bot connection part was originaly made by https://github.com/devPhytols
 I cloned this project from them because i wanted an imgur bot that can upload images for me using discord bot
