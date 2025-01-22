@@ -2,14 +2,14 @@ This is a bot i made for my own convenience
 
 You need to change the api keys and use your own keys in bot.json 
 
-#How to install
+# [How to install]
 ```
 git clone https://github.com/CelestialSkye/Discord-Bot.git
 npm install
 node .
 ```
 
-#How to config 
+# [How to config] 
 ```
 {
     "description_imgur": "This is Imgur API key ",
@@ -39,8 +39,8 @@ but it grew into something more, i modified the original code so it can take mor
 i also added a command that gets me ffxiv memes from r/ShitpostXIV for some reason
 
 I also added some other slash commands like a command to know the weather in any city, a purge command to delete messages, and another command that can give you information about anime using MAL (My Anime List)
-
+also i added a command that gets me ffxiv memes from r/ShitpostXIV for somereason
 I might add other commands if i feel like it
 
-## Credits
+# [Credits]
 This project is based on [devPhytols-Web](https://github.com/devPhytols/UpImgur-Bot-Discord) by [devPhytols](https://github.com/devPhytols).
