@@ -2,14 +2,14 @@ This is a bot i made for my own convenience
 
 You need to change the api keys and use your own keys in bot.json 
 
-##How to install
+#How to install
 ```
 git clone https://github.com/CelestialSkye/Discord-Bot.git
 npm install
 node .
 ```
 
-##How to config 
+#How to config 
 ```
 {
     "description_imgur": "This is Imgur API key ",
