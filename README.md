@@ -35,12 +35,12 @@ node .
 
 The Discord bot connection part was originaly made by https://github.com/devPhytols
 I cloned this project from them because i wanted an imgur bot that can upload images for me using discord bot
-but it grew into something more, i modified the original code so it can take more image formats and gifs, also it can now take image attachments, just copy the image you want to upload select the image option when typing /imgur and paste the image you wanna upload
-i also added a command that gets me ffxiv memes from r/ShitpostXIV for some reason
+but it grew into something more, i modified the original code so it can take more image formats and gifs, also it can now take image attachments, just copy the image you want to upload select the image option when typing /imgur and paste the image you wanna upload.
 
-I also added some other slash commands like a command to know the weather in any city, a purge command to delete messages, and another command that can give you information about anime using MAL (My Anime List)
-also i added a command that gets me ffxiv memes from r/ShitpostXIV for somereason
-I might add other commands if i feel like it
+
+I also added some other slash commands like a command to know the weather in any city, a purge command to delete messages, and another command that can give you information about anime using MAL (My Anime List).
+also added a command that gets me ffxiv memes from r/ShitpostXIV for some reason.
+I might add other commands if i feel like it.
 
 # [Credits]
 This project is based on [devPhytols-Web](https://github.com/devPhytols/UpImgur-Bot-Discord) by [devPhytols](https://github.com/devPhytols).
