@@ -1,7 +1,7 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { EmbedBuilder } = require('discord.js');
 
-const MAL_CLIENT_ID = 'd95bf353f96716ea9f001750279ac358'; // Your MAL Client ID
+const MAL_CLIENT_ID = ''; // Your MAL Client ID
 
 module.exports = {
     data: new SlashCommandBuilder()
