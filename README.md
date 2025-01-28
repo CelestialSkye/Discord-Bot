@@ -37,6 +37,7 @@ The Discord bot connection was originally developed by devPhytols. I cloned the 
 
 In addition to image uploading, I added several useful slash commands:
 
+- An Imgur command that can automatically upload your image using a Link or an image attachment.
 - A weather command to check the weather in any city.
 - A purge command to delete multiple messages at once.
 - An anime info command that pulls details from MyAnimeList (MAL).
